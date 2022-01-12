@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently studying at The Federal University of São Carlos - UFSCAR
-- 🌱 I’m currently learning Elixir
+- 🌱 I’m learning Elixir and studying CS50x course at Harvard University
 - 📫 How to reach me: lucas.balieiro@estudante.ufscar.br
 
 <div> 
